@@ -19,7 +19,7 @@
  ##### Front End
   - if you can, please use Vue.js
   
-### All source push tu GIT (Gitlab, Github, Bitbucket, etc), if you set private repo,please  add email "heri@iglobal.co.id, indra@iglobal.co.id" 
+### All source push to GIT (Gitlab, Github, Bitbucket, etc), if you set private repo,please  add email "heri@iglobal.co.id, indra@iglobal.co.id" 
 
 ###### Default user 
   * Admin 
