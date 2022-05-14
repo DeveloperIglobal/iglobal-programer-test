@@ -1,7 +1,7 @@
 # Iglobal Laravel Programer Test
 
 ### Create Basic Laravel Project
- - Min Laravel 5.4 - 7
+ - Min Laravel 5.4 - latest
  
 ### Create Basic CRUD
  
