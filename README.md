@@ -1,8 +1,7 @@
-# Iglobal Laravel Programer Test
+# Iglobal  Programer Test
 
-### Create Basic Laravel Project
- - Min Laravel 7 - latest
- 
+### Create Basic Project
+
 ### Create Basic CRUD
  
  ##### Implement Relation
@@ -17,9 +16,9 @@
   - Implemen User Group
   
  ##### Front End
-  - if you can, please use Vue.js
+  - Feel free
   
-### All source push to GIT (Gitlab, Github, Bitbucket, etc), if you set private repo,please  add email "heri@iglobal.co.id, indra@iglobal.co.id" 
+### All source push to GIT (Gitlab, Github, Bitbucket, etc), if you set private repo,please  add email "heri@iglobal.co.id" 
 
 ###### Default user 
   * Admin 
